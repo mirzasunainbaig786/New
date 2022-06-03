@@ -1,0 +1,41 @@
+User-Agent: *
+Allow:/
+
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://std1352727.aptech-students.com/</loc>
+  <lastmod>2022-05-20T13:47:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://std1352727.aptech-students.com/index.html</loc>
+  <lastmod>2022-05-20T13:47:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://std1352727.aptech-students.com/about-us.html</loc>
+  <lastmod>2022-05-13T19:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://std1352727.aptech-students.com/facilities.html</loc>
+  <lastmod>2022-05-13T19:56:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://std1352727.aptech-students.com/services.html</loc>
+  <lastmod>2022-05-13T19:56:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://std1352727.aptech-students.com/contact-us.html</loc>
+  <lastmod>2022-05-13T19:56:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
